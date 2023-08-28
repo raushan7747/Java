@@ -1,3 +1,4 @@
+
 // import java.lang.Class;
 import java.util.Scanner; // to use [sc] object from the [Scanner] to take inputs
 
@@ -17,6 +18,9 @@ public class first {
         // (Float values) only
 
         System.out.println(name); // just print with Next Line the value in [name]
+
+        // boolean Bool_object = scannerObject.hasNextInt(); // To verify the user inputs, which of the type
+        // System.out.print(Bool_object);
 
     }
 }
