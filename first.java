@@ -1,3 +1,4 @@
+// import java.lang.Class;
 import java.util.Scanner; // to use [sc] object from the [Scanner] to take inputs
 
 public class first {
