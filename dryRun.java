@@ -3,6 +3,8 @@
  * most complex formulas, and we don't wanna to be repeat that complex formulas when we needed to
  * do even more than a time. So, the another way is that, we just call our function to do that 
  * type of work as much better
+ * one more thing, that's why we should to do dry run is that, particular code block can be checked easily, and this practice enhance the code re-usibility and maintanence while updating the code or when we add new things, or also it is easily understandable and more visible to the naive user also.
+we can test that particular code to find any problems if they exist, that's why we should practice to keep the almost code blocks in Functions for the dry run maintanence also.
  */
 
 
