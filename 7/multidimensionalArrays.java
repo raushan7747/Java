@@ -2,12 +2,25 @@ import java.util.*;
 
 public class multidimensionalArrays {
     public static void main(String[] args) {
-        // // declaring an one-dimensional array
-        // int[] marks;
-        // marks = new int[2];
-        // marks[0] = 100;
-        // marks[1] = 99;
-        // System.out.println(marks[0]);
+        /*
+
+        // declaring an one-dimensional array
+        int[] marks; // marks is a class-of-array, meanswhile we can use marks-Class to create
+                     // array objects, that's why marks is Class and integer-array type. So, we
+                     // can use this integer-array property in other objects to create an array.
+        marks = new int[2]; // here's: (new int[2]) this is an object under the marks-Class
+        marks[0] = 100;
+        marks[1] = 99;
+        System.out.println(marks[1]);
+        // here's marks-class can be used multiple times to create objects
+        marks = new int[2]; // new-keyword is used to create objects, and int[2] is an object which is able
+        // to hold two integers, meanswhile resesrve the size for two-integers to store
+        // in contiguos memory(an array).
+        marks[0] = 98;
+        marks[1] = 99;
+        System.out.println(marks[0]);
+        
+        */
 
         // declaring a two-dimensional array
         int[][] multiArray;
