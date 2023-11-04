@@ -22,6 +22,25 @@ public class varArgs {
              * result is upgraded in 100), therefore: result = 500; and this value stored in
              * result-named-variable and return with this value;
              */
+            /*
+             * using for-eaach loop, and this for-each loop only for traversing(all elements
+             * of) an array
+             * for (int arrayElements: array) -> read as: arrayElements in array
+             * using this for-each loop: arrayElements used interchangeably as array[0}
+             * in this for-each loop: arrayElements will traverse the whole elements in
+             * array
+             * Drawback is that, this loop can't be used for any specific indexes, like
+             * array[1], array[2], so on..
+             * this for-each loop will traverse the wohole elements
+             */
+            /*
+             * for-each loop syntax:
+             * for(int arrayElements: array) {
+             * System.out.println(arrayElements) }
+             * --> in for loop: we take indexes that where to start, and where to finish:
+             * instead of whole elements such as "arrayElements"
+             * --> in for loop: we just interchange "arrayelements" to the array[indexFromZero]
+             */
         }
         return result;
     }
