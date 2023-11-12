@@ -1,9 +1,9 @@
 # Welcome to my profile
-<body>
-   <h2 style="background-color: orange">
-This is Raushan Kumar
+<main>
+   <h2>
+   This is Raushan, welcomes you
    </h2>
-</body>
+</main>
 
 :heart: :heart: :heart: :heart: :heart:
 
