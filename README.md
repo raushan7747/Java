@@ -1,6 +1,6 @@
 # Welcome to my profile
 <body>
-   <div style="color: orange">
+   <div style="background-color: orange">
 This is Raushan Kumar
    </div>
 </body>
